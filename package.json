@@ -1,0 +1,22 @@
+{
+  "name": "sample-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "nodemon --legacy-watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "eslint": "^7.11.0",
+    "express": "^4.17.1",
+    "jest": "^26.6.0",
+    "mongoose": "^5.10.9",
+    "nodemon": "^2.0.6",
+    "prettier": "^2.1.2"
+  }
+}
